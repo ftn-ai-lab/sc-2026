@@ -1,2 +1,9 @@
 # sc-2026
-Soft Computing 2026/2027
+
+Repozitorijum kursa: **Soft Computing**  
+
+Studijski programi:
+* Računarstvo i automatika
+* Softversko inženjerstvo i informacione tehnologije
+
+Školska godina: **2026/2027**
